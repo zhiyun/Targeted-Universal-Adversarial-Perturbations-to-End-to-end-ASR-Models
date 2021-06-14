@@ -10,7 +10,7 @@ perturbations to e2e ASR models. Details can be found in the paper
 
 ## Abstract
 
-![alt_text](universal_attack.png "universal targeted adversarial examples"){height="275" style="float: right"}
+![alt_text](universal_attack.png "universal targeted adversarial examples"){height="50" style="float: right"}
 Although end-to-end automatic speech recognition (e2e ASR) models are widely
 deployed in many applications, there have been very few studies to understand
 models' robustness against adversarial perturbations. In this work, we explore
