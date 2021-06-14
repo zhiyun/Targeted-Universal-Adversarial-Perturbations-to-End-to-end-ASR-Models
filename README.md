@@ -6,11 +6,8 @@ This pages demonstrates some examples of targeted universal adversarial
 perturbations to e2e ASR models. Details can be found in the paper
 [Exploring Targeted Universal Adversarial Perturbations to End-to-end ASR Models](https://arxiv.org/abs/2104.02757).
 
-[TOC]
-
 ## Abstract
 
-![image alt >](universal_attack.png "universal targeted adversarial examples")
 Although end-to-end automatic speech recognition (e2e ASR) models are widely
 deployed in many applications, there have been very few studies to understand
 models' robustness against adversarial perturbations. In this work, we explore
