@@ -2,7 +2,7 @@
 
 Authors: {zhiyunlu,weihan,ngyuzh,llcao}@google.com
 
-This pages demonstrates some examples of targeted universal adversarial
+This github repo demonstrates some examples of targeted universal adversarial
 perturbations to e2e ASR models. Details can be found in the paper
 [Exploring Targeted Universal Adversarial Perturbations to End-to-end ASR Models](https://arxiv.org/abs/2104.02757).
 
